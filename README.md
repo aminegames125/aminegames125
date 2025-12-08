@@ -31,16 +31,13 @@
 
 ---
 
-## Tech I Use
+## Core Stack
 
-<div align="center">
+- **Mobile:** Flutter, Dart, Android
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Backend:** Node.js, TypeScript, REST / tRPC
+- **Data & Infra:** PostgreSQL, MongoDB, Git, GitHub Actions
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+<p align="center">
+  <sub><b>Currently working most with:</b> Flutter · TypeScript · Node.js · Next.js · PostgreSQL</sub>
+</p>
