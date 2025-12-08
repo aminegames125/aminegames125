@@ -56,3 +56,10 @@
 <p align="center">
   <sub><b>Currently working most with:</b> Flutter · TypeScript · Node.js · Next.js · PostgreSQL</sub>
 </p>
+---
+
+### Highlighted projects
+
+- [Bio Builder](https://github.com/aminegames125/bio-builder) – React + TypeScript link‑in‑bio editor prototype.
+- [refund_tracker_pro](https://github.com/aminegames125/refund_tracker_pro) – Flutter app for tracking purchase refunds and due dates.
+- [matmate](https://github.com/aminegames125/matmate) – Experimental Flutter app for exploring math expressions and LaTeX.
