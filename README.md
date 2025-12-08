@@ -7,7 +7,7 @@
 **Building production-ready mobile & web experiences**  
 **From Tunisia 🇹🇳 | Open to remote opportunities 🌍**
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/703929865409265735)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1389655204210671709)
 [![GitHub](https://img.shields.io/badge/GitHub-aminegames125-181717?style=for-the-badge&logo=github)](https://github.com/aminegames125)
 
 </div>
@@ -37,6 +37,21 @@
 - **Frontend:** Next.js, React, Tailwind CSS
 - **Backend:** Node.js, TypeScript, REST / tRPC
 - **Data & Infra:** PostgreSQL, MongoDB, Git, GitHub Actions
+
+---
+
+## Contact
+
+- Discord: **therealamineos**
+- Or open an issue on any pinned project
+
+---
+
+## Now
+
+- Building: **Bio Builder** (React / TypeScript / Vite)
+- Learning: **advanced TypeScript**, DX tooling, on-device AI
+- Open to: **junior / internship** roles (remote-friendly)
 
 <p align="center">
   <sub><b>Currently working most with:</b> Flutter · TypeScript · Node.js · Next.js · PostgreSQL</sub>
