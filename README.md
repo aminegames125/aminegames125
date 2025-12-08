@@ -17,7 +17,7 @@
 ## About
 
 - Flutter & full‑stack developer focused on **clean, maintainable code**
-- Comfortable with **Flutter, Dart, TypeScript, Node.js, Next.js, PostgreSQL**
+- Working daily with **Flutter, Dart, TypeScript, Node.js, Next.js, PostgreSQL**
 - Interested in **on‑device AI, dev tooling, and great DX**
 - Looking for **junior / internship / freelance** roles where shipping real product matters
 
