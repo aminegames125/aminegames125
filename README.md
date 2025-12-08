@@ -56,7 +56,6 @@
 <p align="center">
   <sub><b>Currently working most with:</b> Flutter · TypeScript · Node.js · Next.js · PostgreSQL</sub>
 </p>
----
 
 ### Highlighted projects
 
