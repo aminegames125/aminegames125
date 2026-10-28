@@ -1,64 +1,66 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" /> Hi, I'm Amine
+<img src="assets/banner.svg" alt="Amineos. One VPS. No cloud provider. Independent full-stack engineer." width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Flutter+%26+Full-Stack+Developer;TypeScript+Enthusiast;Building+Clean%2C+Fast+Apps" alt="Typing SVG" />
+<br>
 
-**Building production-ready mobile & web experiences**  
-**From Tunisia 🇹🇳 | Open to remote opportunities 🌍**
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1389655204210671709)
-[![GitHub](https://img.shields.io/badge/GitHub-aminegames125-181717?style=for-the-badge&logo=github)](https://github.com/aminegames125)
+[![Website](https://img.shields.io/badge/amineos.dev-8dff4f?style=for-the-badge&labelColor=16181d&logo=googlechrome&logoColor=8dff4f)](https://amineos.dev)
+[![Discord](https://img.shields.io/badge/Discord-therealamineos-5865F2?style=for-the-badge&labelColor=16181d&logo=discord&logoColor=5865F2)](https://discord.com/users/1389655204210671709)
+![Open to remote work](https://img.shields.io/badge/open_to-remote_work-8dff4f?style=for-the-badge&labelColor=16181d)
 
 </div>
 
----
+<br>
 
-## About
+I design the product, build the backend and ship it myself. Nobody hands me the work, so I choose it and I answer for it. When something breaks, I'm the one who fixes it, usually late at night.
 
-- Flutter & full‑stack developer focused on **clean, maintainable code**
-- Working daily with **Flutter, Dart, TypeScript, Node.js, Next.js, PostgreSQL**
-- Interested in **on‑device AI, dev tooling, and great DX**
-- Looking for **junior / internship / freelance** roles where shipping real product matters
+Based in Tunisia. Most of the work happens between midnight and 4 AM, with One Piece playing. I also make art, independently.
 
----
+<br>
 
-## What I Bring
+## Work
 
-- ✅ Solid fundamentals (state management, API design, auth, performance)
-- ✅ Clear communication and fast learning
-- ✅ Real experience building small but complete apps (frontend + backend + deploy)
+Public projects. Private and client work is available on request.
 
----
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**daftar**](https://github.com/aminegames125/daftar) | Offline-first Android wallet of cards for prices, places, menus and money. Reads menus from a photo on the device, and the data stays on the phone. | Flutter, Dart, Drift |
+| [**Veil**](https://github.com/aminegames125/Veil) | Ordinary doors, private portals. A Fabric 1.21.1 mod with expiring keycards, delegated access and audit logs. | Java |
+| [**refund_tracker_pro**](https://github.com/aminegames125/refund_tracker_pro) | Tracks purchase refunds, deadlines and statuses on mobile, web and desktop from one codebase. | Flutter, Dart |
+| [**bio-builder**](https://github.com/aminegames125/bio-builder) | Write a clean personal bio once and reuse it on GitHub, your portfolio and social profiles. | JavaScript |
+| [**matmate**](https://github.com/aminegames125/matmate) | Parses math expressions, solves equations and renders the LaTeX on screen. | Flutter, Dart |
+| [**VoidTP**](https://github.com/aminegames125/VoidTP) | Lightweight Spigot plugin that saves players from the void. One command, configurable. | Java |
 
-## Core Stack
+The biggest one isn't here: **perfect-shop**, a commerce platform with storefront, backend, database and reverse proxy, built end to end on a bare VPS. It's private, and I'm happy to walk through it.
 
-- **Mobile:** Flutter, Dart, Android
-- **Frontend:** Next.js, React, Tailwind CSS
-- **Backend:** Node.js, TypeScript, REST / tRPC
-- **Data & Infra:** PostgreSQL, MongoDB, Git, GitHub Actions
+<br>
 
----
+## What I use
 
-## Contact
+| | |
+| --- | --- |
+| **Mobile** | Flutter, Dart |
+| **Web** | Next.js, TypeScript, Node.js |
+| **Languages** | Python, Go, Java, Kotlin, Solidity |
+| **Data** | PostgreSQL, Prisma |
+| **Infrastructure** | Docker, Nginx, Cloudflare, Mailu |
 
-- Discord: **therealamineos**
-- Or open an issue on any pinned project
-
----
+<br>
 
 ## Now
 
-- Building: **Bio Builder** (React / TypeScript / Vite)
-- Learning: **advanced TypeScript**, DX tooling, on-device AI
-- Open to: **junior / internship** roles (remote-friendly)
+- Building **daftar**, my offline-first wallet app.
+- Running 11+ Docker services on one bare VPS, and nothing on a cloud provider.
+- Keeping [amineos.dev](https://amineos.dev) up to date. The logo and the animation in the banner above are mine, and I built both.
 
-<p align="center">
-  <sub><b>Currently working most with:</b> Flutter · TypeScript · Node.js · Next.js · PostgreSQL</sub>
-</p>
+<br>
 
-### Highlighted projects
+## Say hello
 
-- [Bio Builder](https://github.com/aminegames125/bio-builder) – React + TypeScript link‑in‑bio editor prototype.
-- [refund_tracker_pro](https://github.com/aminegames125/refund_tracker_pro) – Flutter app for tracking purchase refunds and due dates.
-- [matmate](https://github.com/aminegames125/matmate) – Experimental Flutter app for exploring math expressions and LaTeX.
+The quickest way is Discord: [**therealamineos**](https://discord.com/users/1389655204210671709). You can also send a message from [amineos.dev](https://amineos.dev/#contact), or open an issue on any project.
+
+<br>
+
+<div align="center">
+<sub>Logo, banner and animations &copy; 2026 Amineos. All rights reserved. See <a href="LICENSE">LICENSE</a>.</sub>
+</div>
