@@ -27,7 +27,7 @@ Public projects. Private and client work is available on request.
 | [**daftar**](https://github.com/aminegames125/daftar) | Offline-first Android wallet of cards for prices, places, menus and money. Reads menus from a photo on the device, and the data stays on the phone. | Flutter, Dart, Drift |
 | [**Veil**](https://github.com/aminegames125/Veil) | Ordinary doors, private portals. A Fabric 1.21.1 mod with expiring keycards, delegated access and audit logs. | Java |
 | [**refund_tracker_pro**](https://github.com/aminegames125/refund_tracker_pro) | Tracks purchase refunds, deadlines and statuses on mobile, web and desktop from one codebase. | Flutter, Dart |
-| [**bio-builder**](https://github.com/aminegames125/bio-builder) | Write a clean personal bio once and reuse it on GitHub, your portfolio and social profiles. | JavaScript |
+| [**plinth**](https://github.com/aminegames125/plinth) | Browser editors for link pages and documentation sites. Export a zip of static files and host it anywhere, including a subpath. | Next.js, React, Nextra |
 | [**matmate**](https://github.com/aminegames125/matmate) | Parses math expressions, solves equations and renders the LaTeX on screen. | Flutter, Dart |
 | [**VoidTP**](https://github.com/aminegames125/VoidTP) | Lightweight Spigot plugin that saves players from the void. One command, configurable. | Java |
 
