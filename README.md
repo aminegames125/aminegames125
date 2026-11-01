@@ -24,6 +24,7 @@ Public projects. Private and client work is available on request.
 
 | Project | What it is | Built with |
 | --- | --- | --- |
+| [**Vesper**](https://github.com/aminegames125/vesper) | Record IPTV from Kodi. A Kodi add-on adds "Record with Vesper" to Live TV and the guide, and a small self-hosted server does the recording. See the [website](https://amineos.dev/vesper/). | Rust, Python, React, Docker |
 | [**daftar**](https://github.com/aminegames125/daftar) | Offline-first Android wallet of cards for prices, places, menus and money. Reads menus from a photo on the device, and the data stays on the phone. | Flutter, Dart, Drift |
 | [**Veil**](https://github.com/aminegames125/Veil) | Ordinary doors, private portals. A Fabric 1.21.1 mod with expiring keycards, delegated access and audit logs. | Java |
 | [**refund_tracker_pro**](https://github.com/aminegames125/refund_tracker_pro) | Tracks purchase refunds, deadlines and statuses on mobile, web and desktop from one codebase. | Flutter, Dart |
